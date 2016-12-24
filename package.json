@@ -15,6 +15,13 @@
     "node",
     "card"
   ],
+  "babel": {
+    "presets": [
+      "latest",
+      "stage-3",
+      "react"
+    ]
+  },
   "author": "Rukeith Tseng <fenglan.crazydance@gmail.com>",
   "license": "MIT",
   "bugs": {
